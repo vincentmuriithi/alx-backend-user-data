@@ -1,1 +1,1 @@
-This directory contains session authentication project tasks
+This directory contains session auth project tasks
